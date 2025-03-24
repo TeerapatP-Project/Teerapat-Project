@@ -11,41 +11,47 @@
 ## 🛠️ Skills & Tools
 
 ### 🧑‍💻 Programming Languages  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff&style=flat)
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=000&style=flat)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=fff&style=flat)
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=fff&style=flat)
-![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=fff&style=flat)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
-![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=fff&style=flat)
-![SQL](https://img.shields.io/badge/-SQL-003B57?logo=sqlite&logoColor=fff&style=flat)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+---
 
 ### ⚙️ Frameworks & Libraries  
-![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?logo=dotnet&logoColor=fff&style=flat)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=fff&style=flat)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=fff&style=flat)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=fff&style=flat)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+---
 
 ### 🧰 DevOps & Tools  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff&style=flat)
-![Power Platform](https://img.shields.io/badge/-Power%20Platform-742774?logo=microsoft-powerpoint&logoColor=fff&style=flat)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=000&style=flat)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visual-studio&logoColor=fff&style=flat)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=fff&style=flat)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff&style=flat)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=fff&style=flat)
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?logo=bitbucket&logoColor=fff&style=flat)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff&style=flat)
-![MobaXterm](https://img.shields.io/badge/-MobaXterm-5A5A5A?logo=windows-terminal&logoColor=fff&style=flat)
-![IIS](https://img.shields.io/badge/-IIS-0078D7?logo=windows&logoColor=fff&style=flat)
-![Remote Desktop](https://img.shields.io/badge/-Remote%20Desktop-0078D7?logo=microsoft&logoColor=fff&style=flat)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Power Platform](https://img.shields.io/badge/Power%20Platform-742774?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)  
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)  
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![MobaXterm](https://img.shields.io/badge/MobaXterm-5A5A5A?style=for-the-badge&logo=windows-terminal&logoColor=white)  
+![IIS](https://img.shields.io/badge/IIS-0078D7?style=for-the-badge&logo=windows&logoColor=white)  
+![Remote Desktop](https://img.shields.io/badge/Remote%20Desktop-0078D7?style=for-the-badge&logo=microsoft&logoColor=white)
+
+---
 
 ### 📊 Monitoring & Analytics  
-![ELK Stack](https://img.shields.io/badge/-ELK%20Stack-005571?logo=elastic&logoColor=fff&style=flat)
-![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=fff&style=flat)
+![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)  
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 ---
 
